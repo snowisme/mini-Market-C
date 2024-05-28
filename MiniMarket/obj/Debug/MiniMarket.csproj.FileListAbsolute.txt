@@ -1,0 +1,92 @@
+R:\MiniMarket\MiniMarket\bin\Debug\MiniMarket.exe.config
+R:\MiniMarket\MiniMarket\bin\Debug\MiniMarket.exe
+R:\MiniMarket\MiniMarket\bin\Debug\MiniMarket.pdb
+R:\MiniMarket\MiniMarket\bin\Debug\Dapper.dll
+R:\MiniMarket\MiniMarket\bin\Debug\System.Configuration.ConfigurationManager.dll
+R:\MiniMarket\MiniMarket\bin\Debug\Dapper.xml
+R:\MiniMarket\MiniMarket\bin\Debug\System.Configuration.ConfigurationManager.xml
+R:\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.AssemblyReference.cache
+R:\MiniMarket\MiniMarket\obj\Debug\MiniMarket.FormManager.resources
+R:\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Properties.Resources.resources
+R:\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.GenerateResource.cache
+R:\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.CoreCompileInputs.cache
+R:\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.Up2Date
+R:\MiniMarket\MiniMarket\obj\Debug\MiniMarket.exe
+R:\MiniMarket\MiniMarket\obj\Debug\MiniMarket.pdb
+R:\MiniMarket\MiniMarket\bin\Debug\Guna.UI2.dll
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.FormLogin.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.FormManager.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.Properties.Resources.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.exe
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.pdb
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\MiniMarket.exe.config
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\MiniMarket.exe
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\MiniMarket.pdb
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\Dapper.dll
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\Guna.UI2.dll
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\Dapper.xml
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.csproj.Up2Date
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.FormPOScreen.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.CONTROLS.ProductItem.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\bin\Debug\Images\default.png
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.FormCustomerManager.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.FormProductManager.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.FormOrderManager.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.FormAccountManager.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.FormImportManager.resources
+C:\Users\asus\Downloads\2024-03-06 [00.36.35] 066.T4\MiniMarket\MiniMarket\obj\Debug\MiniMarket.GUI.FormOutStockAlert.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\Images\default.png
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\MiniMarket.exe.config
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\MiniMarket.exe
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\MiniMarket.pdb
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\Dapper.dll
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\Guna.UI2.dll
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\System.Configuration.ConfigurationManager.dll
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\Dapper.xml
+R:\MiniMarket_SRC_Update2_123\MiniMarket\bin\Debug\System.Configuration.ConfigurationManager.xml
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.csproj.AssemblyReference.cache
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.CONTROLS.ProductItem.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.FormAccountManager.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.FormCustomerManager.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.FormImportManager.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.FormLogin.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.FormManager.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.FormOrderManager.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.FormOutStockAlert.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.FormPOScreen.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.GUI.FormProductManager.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.Properties.Resources.resources
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.csproj.GenerateResource.cache
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.csproj.CoreCompileInputs.cache
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.csproj.Up2Date
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.exe
+R:\MiniMarket_SRC_Update2_123\MiniMarket\obj\Debug\MiniMarket.pdb
+C:\12223\MiniMarket\bin\Debug\Images\default.png
+C:\12223\MiniMarket\bin\Debug\MiniMarket.exe.config
+C:\12223\MiniMarket\bin\Debug\MiniMarket.exe
+C:\12223\MiniMarket\bin\Debug\MiniMarket.pdb
+C:\12223\MiniMarket\bin\Debug\Guna.UI2.dll
+C:\12223\MiniMarket\obj\Debug\MiniMarket.csproj.AssemblyReference.cache
+C:\12223\MiniMarket\obj\Debug\MiniMarket.csproj.SuggestedBindingRedirects.cache
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.CONTROLS.ProductItem.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.FormAccountManager.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.FormCustomerManager.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.FormImportManager.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.FormLogin.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.FormManager.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.FormOrderManager.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.FormOutStockAlert.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.FormPOScreen.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.FormProductManager.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.GUI.NotifyForm.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.Properties.Resources.resources
+C:\12223\MiniMarket\obj\Debug\MiniMarket.csproj.GenerateResource.cache
+C:\12223\MiniMarket\obj\Debug\MiniMarket.csproj.CoreCompileInputs.cache
+C:\12223\MiniMarket\obj\Debug\MiniMarket.csproj.CopyComplete
+C:\12223\MiniMarket\obj\Debug\MiniMarket.exe
+C:\12223\MiniMarket\obj\Debug\MiniMarket.pdb
